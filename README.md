@@ -24,9 +24,9 @@ Both systems are initialized in the same non-entangled product state and evolved
 
 ### Key Observables
 
-- \\( \langle Z_0(t) \rangle \\): Edge spin coherence
-- \\( \langle Z_2(t) \rangle \\): Bulk spin behavior
-- \\( S_0(t) \\): Single-qubit entanglement entropy
+- $$\( \langle Z_0(t) \rangle $$\): Edge spin coherence
+- $$\( \langle Z_2(t) \rangle $$\): Bulk spin behavior
+- $$\( S_0(t) $$\): Single-qubit entanglement entropy
 
 ---
 
