@@ -15,7 +15,7 @@ We compare two driven quantum systems:
 
 | Model              | Description |
 |--------------------|-------------|
-| **Floquet ETH**    | Thermalizing system with uniform transverse field and nearest-neighbor \( ZZ \) interactions. |
+| **Floquet ETH**    | Thermalizing system with uniform transverse field and nearest-neighbor $$\( ZZ $$\) interactions. |
 | **Floquet SPT-MBL**| Non-thermal system protected by disorder and \(\mathbb{Z}_2 \times \mathbb{Z}_2\) symmetry, exhibiting stable edge modes. |
 
 Both systems are initialized in the same non-entangled product state and evolved stroboscopically.
